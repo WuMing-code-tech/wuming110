@@ -1,4 +1,4 @@
-# 海外广告投流自动化分析系统
+# 广告投流自动化分析系统
 
 [![Python](https://img.shields.io/badge/Python-3.14-blue)](https://www.python.org/)
 [![Metabase](https://img.shields.io/badge/Metabase-0.62-green)](https://www.metabase.com/)
